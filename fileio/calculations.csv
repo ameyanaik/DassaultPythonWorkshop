@@ -1,0 +1,6 @@
+Number1, Number2, Operation, ExpectedResult
+2, 3, +, 5
+234, 100, -, 134
+7, 8, *, 56
+100, 5, /, 20
+23, 3, %, 2
